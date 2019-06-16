@@ -13,9 +13,9 @@ Build2Learn is converging into a focused group of 10 people. A good mixture of m
 5. [Syed Suhail Ahmed](https://twitter.com/side_swail)
 6. [Saravanan Ramupillai](https://twitter.com/sara_vananr)
 7. [Sree](https://github.com/r-sreesaran)
-8. [Ajai Daniel](https://github.com/ajaidanial)
+8. [Vishal Gupta](https://github.com/py-ranoid)
 9. [Gaurav](https://github.com/GauravG8)
-10. TBD
+10.[Shiny] (https://github.com/shinysu)
 
 ## What's next? 
 
